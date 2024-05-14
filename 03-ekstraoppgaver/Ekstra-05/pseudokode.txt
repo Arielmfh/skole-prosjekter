@@ -1,0 +1,14 @@
+# Variabler: Pølse pakker. Pølser har 10stk, pølsebrød har 8stk
+
+# Hvor mange kommer til festen?
+# Hvor mange pølser til hver gjest?
+
+# Variabel som ganger antall personer på antall pølser til hver gjest
+
+# Minste antall pakker som kreves
+
+# Minimum antall pakker med pølsebrød som kreves
+
+# Antall pølser som blir til overs
+
+# Antall pølsebrød som blir til overs

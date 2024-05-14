@@ -1,0 +1,27 @@
+# importerer random
+
+#variabel for minimum tilfeldig tall
+#variabel for maksimum tilfeldig tall
+
+# input for brukeren sin gjettet tall
+
+# variabel for antall gjett
+
+# tilfeldig tall mellom 1 til 10 velges
+
+# true-false variabel for om brukeren har gjettet riktig
+
+# løkke som sjekker om true-false variabelen er sann eller usann for å kjøre forekommende if-setninger. Hvis den er usann kjøres if-setningene
+ # brukeren sitt tall blir sjekket med det tilfeldige tallet
+   # if bruker_tall > t_tall:
+     #print("Tallet ditt var for høyt")
+     #input brukeren for å gjette på nytt
+     # antall gjett inkrementeres med 1
+   # elif bruker_tall < t_tall:
+      #print("Tallet ditt var for lavt")
+      #input brukeren for å gjette på nytt
+       # antall gjett inkrementeres med 1
+   # if bruker_tall == t_tall:
+      #print("Gjettet ditt var riktig! Du har vunnet")
+      # Brukeren for vite hvor mange forsøk de brukte
+      #true-false variabel for spillet blir satt til riktig

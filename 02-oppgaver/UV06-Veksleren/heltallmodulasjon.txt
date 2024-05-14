@@ -1,0 +1,3 @@
+mengdePenger = 1000
+AntallTusenLapper = mengdePenger // 1000 # her blir antall 1000"stk" regnet fra mengdepenger. I dette tilfelle blir det 1, 1000stk.
+mengdePenger = mengdePenger % 1000 # Hver "1000 stk" tas vekk fra mengdepenger variabelen. Så i dette tilfelle blir det da 0.

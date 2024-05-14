@@ -1,0 +1,11 @@
+# input bruker tall som integer
+# gangetabell variabel for gangestykke
+
+
+# while løkke som kjører helt til gangetabell er 10
+
+# print("her ser du",bruker_tall,"gangen:")
+
+# while gangetabell < 11
+# bruker tall x ganger gangetabell regnes & printes
+# gangetabell adderes med +1

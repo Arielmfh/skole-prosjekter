@@ -1,0 +1,14 @@
+# to tilfeldige tall mellom 1 og 10 velges ti ganger
+
+# tilfeldige valgt tall printes ut til skjermen
+
+# brukeren oppgir multiplikasjonen av tallene
+
+# når bruker har svart vises neste gangestykke opptil 9 ganger og riktige svar opptelles
+
+# brukeren sine svar blir telt opp til hvor mange som er riktige
+
+# Dersom brukeren får 10 rette svar, skal programmet svare: "Supert! Du er god!"
+# Dersom brukeren får 9 rette svar, skal programmet svare: "Dette var bra!"
+# Dersom brukeren får 8 rette svar, skal programmet svare: "Bra, men du kan øve mer!"
+# Dersom brukeren får 7 eller mindre rette svar, skal programmet svare: "Du må øve mer"

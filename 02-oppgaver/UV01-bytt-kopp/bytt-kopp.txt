@@ -1,0 +1,11 @@
+# Opprette grønn kopp
+
+# Opprette rosa kopp
+
+# Opprette hvit kopp
+
+# Flytt den blåe pennen til den hvite koppen
+
+# Flytt den svarte pennen til den rosa koppen
+
+# Flytt den blåe pennen til den grønne koppen

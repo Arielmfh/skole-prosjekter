@@ -1,0 +1,21 @@
+# Variabel for antall riktige svar
+
+# Variabel for spørsmål streng
+# Variabel for antall spørsmål svart
+
+# Liste av spørsmål som variabler
+
+# Print med kort info om Quizen. Det svares kun med småe bokstaver
+
+# If-setning som sjekker innholdet til spørsmål svar variabelen 
+# Antall spørsmål svart sjekkes og da blir du stilt neste spørsmål i rekkefølge. Det printes hvilket spørsmål brukeren er i
+
+# If setning som sjekker om bruker input er riktig besvarelse
+# Hvis bruker har svart riktig får han +1 i antall riktige svar og det printes at de har svart riktig
+# Antall spørsmål svart variabelen bestiges med én
+# Det printes hvor mange riktige bevsarelser brukeren har
+# else-setning som printer at brukeren har fått feil, og antall spørsmål besvart bestiges også med én for å gå til neste spørsmål
+
+# if-else funksjonen repeteres for hvert spørsmål
+
+# Når alle 10 spørsmål har blitt besvart vises brukeren hvor mange rette svar dem fikk, og det blir gitt en tilbakemelding

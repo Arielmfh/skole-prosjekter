@@ -1,0 +1,17 @@
+# verdier til et A4 ark
+# 21cm / 210mm bredde
+# 29.7cm / 297mm høyde/lengde
+
+# funksjon for beregning av volum. Tar høyde som innverdi
+#grunn flate = lengde x bredde
+#volum = grunnflate x hoyde
+
+# hoyde for eksen
+
+#inkrementell vekst variabel
+
+#while løkke for volum regningen med inkrement til utfallet er optimalisert
+  #hoyde adderes med inkrement
+  #hver høyde printes til den er optimalisert
+
+# Optimalisert volum printes

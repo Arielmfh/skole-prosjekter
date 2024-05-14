@@ -1,0 +1,7 @@
+# brukeren oppgir alderen til Henrik og den gjøres om til en integer
+
+# brukeren oppgir alderen til Kari og den gjøres om til en integer
+
+# betinget funksjon til å finne ut alderforskjeller
+
+# det printes ut hvem som er eldst eller om de er like gamle

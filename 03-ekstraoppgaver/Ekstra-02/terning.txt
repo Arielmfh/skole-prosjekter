@@ -1,0 +1,9 @@
+# importer random
+
+# variabel for antall kast
+# variable for terningkasten
+
+# løkke som kaster terningen og får et tall mellom 1-6 til den får 6. 
+# For hvert kast blir variabelen "kast" addert med én.
+
+# det printes hvor mange kast det tok å få en sekser

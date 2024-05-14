@@ -1,0 +1,10 @@
+# import random
+
+# Variabel for terning 1
+# Variabel for terning 2
+# variabel for antall kast 
+
+# løkke som kaster begge terningene til de har samme verdi
+#for hvert kast telles antall ganger de har blitt kastet
+
+# det printes verdien til terningene, og hvor mange kast det tok

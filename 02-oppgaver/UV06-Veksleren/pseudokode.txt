@@ -1,0 +1,29 @@
+# input for kjøpsum som skal betales
+# Printer kjøpe sum i kroner
+
+# En annen variabel som lagrer betalingsummen 
+
+
+# input hvor mange kontanter du skal betale med
+
+# if funksjon for hvis bruker kontanter er mindre enn betalingsummen
+  # print("Du kan ikke kjøpe noe du ikke har råd til!")
+#else:
+  # Print som forteller hvor mye du betaler med
+
+#print for tomrom
+#Print som forteller kunden kontantene de bruker
+
+#print for tomrom
+# Kunden sine kontanter regnes til heltall og moduleres for å vise antall sedler & kontanter som blir brukt i kjøpet
+
+#print for tomrom
+# Variabel for resterende penger. Kontanter regnes med betalingsummen for å få vekselen.
+
+#print for tomrom
+# Resterende penger printes ut til kunden
+
+# Print som forteller kunden resterende kontanter de får tilbake
+
+#print for tomrom
+# Kunden sine resterende kontanter regnes til heltall og moduleres for å vise hvilke kontanter de får tilbake
